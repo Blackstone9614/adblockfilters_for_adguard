@@ -1,0 +1,6 @@
+# adblockfilters_for_adguard
+adblock
+
+個人用の広告ブロック用フィルタ
+
+mxplayer kiwibrowserなどの怪しい通信をブロックするためのDNS用フィルタ（Adguared用）
